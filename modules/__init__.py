@@ -1,1 +1,1 @@
-MASTER_PASSWORD = "baisoya@2018"
+MASTER_PASSWORD = "password"
