@@ -2,6 +2,10 @@
 
 ---
 
+## Future Plans
+Instead of making it like a Read-Eval-Print loop, Try making it like a **normal** CLI tool.
+It will be compressed into a single binary and that binary would be acessable from the whole pc.
+
 ## Demo
 
 ### Auth
