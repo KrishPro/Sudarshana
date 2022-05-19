@@ -1,1 +1,4 @@
-# The Sudarshana
+![](Assets/Sudarshana.png)
+
+---
+
