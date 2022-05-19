@@ -1,4 +1,4 @@
-![](Assets/Sudarshana.png)
+![](Assets/Sudarshana-WideScreen.png)
 
 ---
 
