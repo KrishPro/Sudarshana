@@ -2,13 +2,22 @@
 Written by KrishPro @ KP
 """
 
+from modules.query_manager import handle_query
 from modules.auth import authenticate
 import argparse
 
+def repl():
+    """
+    Read-eval-print loop
+    """
+    while True:
+        query = input("chakra> ")
+        handle_query(query)
+
+
 def main(args):
     authenticate(args.password)
-    print("Welcome to Sudarshana")
-
+    repl()
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="""
